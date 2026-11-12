@@ -1,0 +1,2 @@
+# NETWORKWALKS-CYBERSECURITY-INTERNSHIP-BATCH-B084-WEEK-2
+WEEK 2: FOOTPRINTING, RECONNAISSANCE &amp; NETWORK SCANNING REPORT Prepared by: Patrick Adu  Programme: NetworkWalks Cybersecurity Internship Batch: B084 Practical Exercises: W2-PM1 and W2-PM5
